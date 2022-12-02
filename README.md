@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeff09&label=Profile%20views&color=0e75b6&style=flat" alt="xeff09" /> </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/VXrqFIm2ROQAAAAd/bocchi-the-rock-bocchi.gif" align="left">
+  <img src="https://media.tenor.com/VXrqFIm2ROQAAAAd/bocchi-the-rock-bocchi.gif" align="left" width="230" height="390">
 
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xeff09&" alt="xeff09" /></p>
 
