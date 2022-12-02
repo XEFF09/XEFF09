@@ -12,11 +12,12 @@
 <br>
 
 <h2 align="center"></h2>
-----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeff09&label=Profile%20views&color=0e75b6&style=flat" alt="xeff09" /> </p>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeff09&" alt="xeff09" /></p>
+  <img src="https://media.tenor.com/VXrqFIm2ROQAAAAd/bocchi-the-rock-bocchi.gif" align="right" width="373.5px" height="208.5px">
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeff09&show_icons=true&locale=en" alt="xeff09" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xeff09&" alt="xeff09" /></p>
+
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xeff09&show_icons=true&locale=en" alt="xeff09" /></p>
 </div>
