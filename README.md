@@ -14,6 +14,8 @@
 <h2 align="center"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeff09&label=Profile%20views&color=0e75b6&style=flat" alt="xeff09" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeff09&show_icons=true&locale=en&layout=compact" alt="xeff09" /></p>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeff09&show_icons=true&locale=en&layout=compact" alt="xeff09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeff09&show_icons=true&locale=en" alt="xeff09" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xeff09&show_icons=true&locale=en" alt="xeff09" /></p>
+</div>
