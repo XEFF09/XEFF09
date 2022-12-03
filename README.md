@@ -17,23 +17,11 @@
 
 ***
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21naz3bxynvq33kljs6f3ytpy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xeff09&label=Profile%20views&color=0e75b6&style=flat" alt="xeff09" /> </p>
 
 <details>
 <summary>αвσυт мє</summary>
   
 <br>
-  
-<div align="center">
-  <img src="https://64.media.tumblr.com/489e185602e939c7498309a76a4971ef/bcae2f2a1ddbbe4b-a5/s640x960/ff34788b357f167100acc4bf358e3cbb6b5a13d8.gifv" align="left" width="384.5px">
-  
-  <pre align="left">
-    <li><b>Name   : Pun:)
-    <li><b>Loves  : Manga
-    <li><b>Gender : Male
-    <li><b>Status : Single
-  </pre>
-</div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=xeff09&label=Profile%20views&color=0e75b6&style=flat" alt="xeff09" /> </p>
 
