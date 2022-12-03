@@ -17,7 +17,7 @@
 
 ***
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21naz3bxynvq33kljs6f3ytpy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21naz3bxynvq33kljs6f3ytpy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <details>
 <summary>αвσυт мє</summary>
