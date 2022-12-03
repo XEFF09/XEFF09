@@ -13,6 +13,7 @@
 <p align="center"><a href="https://www.instagram.com/pp_u.nn/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/pp_u.nn%20-%23f24f1d.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.gg/CsTthJxRpZ" target="_blank"><img src="https://img.shields.io/badge/KU%20comsci%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 
 <br>
+<br>
 
 ***
 
