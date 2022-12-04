@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/XEFF09">PROFILE</a></td>
+    <td align="center"><a href="https://github.com/XEFF09/XEFF09/blob/main/README.md">READMD</a></td>
     <td align="center"><a href="https://github.com/XEFF09?tab=repositories">REPO</a></td>
   </tr>
   <tr>
