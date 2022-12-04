@@ -18,9 +18,10 @@
 ***
 
 <table>
-  <tr><td colspan="2"><a href="https://github.com/XEFF09">← PROFILE</a></td></tr>
-  <tr><th colspan="2"><img width="100%" src="https://im3.ezgif.com/tmp/ezgif-3-8064fe409a.gif"></th></tr>
-  <tr><td colspan="2" align="center"><br><p> | KU82 CS37 | </p>
+  <tr>
+    <td align="center"><a href="https://github.com/XEFF09">PROFILE</a></td>
+    <td align="center"><a href="https://github.com/XEFF09?tab=repositories">REPO</a></td>
+  </tr>
 </td>
   <tr>
     <th rowspan="3"><br><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=xeff09&theme=dark&show_icons=true"></th>
@@ -33,6 +34,7 @@
       <img align="center" width="95%" src="https://spotify-recently-played-readme.vercel.app/api?user=21naz3bxynvq33kljs6f3ytpy&count=1" alt=""></img>
     </td>
   </tr>
+  <tr><th colspan="2"><img width="100%" src="https://im3.ezgif.com/tmp/ezgif-3-8064fe409a.gif"></th></tr>
 </table>
 
 
