@@ -23,7 +23,7 @@
     <td align="center"><a href="https://github.com/XEFF09/XEFF09/blob/main/README.md">README ></a></td>
   </tr>
   <tr>
-    <td colspan="2"><br></td>
+    <td colspan="2"><img align="center" width="100%" src="https://discord-readme-badge.vercel.app/api?id=361059716891148298"><br></td>
   </tr>
 </td>
   <tr>
