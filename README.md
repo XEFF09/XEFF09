@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/XEFF09">< PROFILE</a></td>
-    <td align="center"><a href="https://github.com/XEFF09/XEFF09/blob/main/README.md">MARKDOWN ></a></td>
+    <td align="center"><a href="https://github.com/XEFF09/XEFF09/blob/main/README.md">README ></a></td>
   </tr>
   <tr>
     <td colspan="2"><br></td>
