@@ -19,8 +19,8 @@
 
 <table>
   <tr><td colspan="2"><a href="https://github.com/XEFF09">← PROFILE</a></td></tr>
-  <tr><th colspan="2"><img width="984px" src="https://im3.ezgif.com/tmp/ezgif-3-8064fe409a.gif"></th></tr>
-  <tr><td colspan="2" align="center"><p> | KU82 CS37 | </p>
+  <tr><th colspan="2"><img width="100%" src="https://im3.ezgif.com/tmp/ezgif-3-8064fe409a.gif"></th></tr>
+  <tr><td colspan="2" align="center"><br><p> | KU82 CS37 | </p>
 </td>
   <tr>
     <th rowspan="3"><br><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=xeff09&theme=dark&show_icons=true"></th>
