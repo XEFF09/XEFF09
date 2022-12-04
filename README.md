@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/w5a0WVW1GbsAAAAd/nijika-bocchi-the-rock.gif" align="right" width="373.5px" height="208.5px">
+  <img src="https://media.tenor.com/w5a0WVW1GbsAAAAd/nijika-bocchi-the-rock.gif" align="left" width="400px" height="208.5px">
 </div>
 
 <br>
@@ -19,9 +19,19 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=xeff09&label=Profile%20views&color=0e75b6&style=flat" alt="xeff09" /> </p>
 
-<details>
-<summary>αвσυт мє</summary>
-  
-<br>
+<div align="center">
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-8064fe409a.gif" align="right" width="640px">
+</div>
+
+
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21naz3bxynvq33kljs6f3ytpy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) |
+|-|
+
+[<img align="left" width="34.5%" src="https://github-readme-stats.vercel.app/api?username=xeff09&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+
+<div align="right">
+  <p align="center">&nbsp;</p>
+  <h2 align="center">⚡️KU82 CS37⚡️</h2>
+</div>
 
 
