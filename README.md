@@ -18,27 +18,19 @@
 ***
 
 <table>
-  <tr><td colspan="2"><a href="/README.md#%EF%B8%8F-templates">← Back to templates index</a></td></tr>
-  <tr><th colspan="2">
-    <img align="left" width="37%" src="https://github-readme-stats.vercel.app/api?username=xeff09&theme=dark&show_icons=true">
-    <img align="right" width="56%" src="https://im3.ezgif.com/tmp/ezgif-3-8064fe409a.gif">
-  </th></tr>
-  <tr><td colspan="2" align="center"><p>A template capable of rendering markdown from a given template file.</p>
-</td></tr>
+  <tr><td colspan="2"><a href="https://github.com/XEFF09">← PROFILE</a></td></tr>
+  <tr><th colspan="2"><img width="984px" src="https://im3.ezgif.com/tmp/ezgif-3-8064fe409a.gif"></th></tr>
+  <tr><td colspan="2" align="center"><p> | KU82 CS37 | </p>
+</td>
   <tr>
-    <th rowspan="3">Supported features<br><sub><img src="https://spotify-recently-played-readme.vercel.app/api?user=21naz3bxynvq33kljs6f3ytpy&count=1"></sub></th>
-    <td><a href="/source/plugins/activity/README.md" title="📰 Recent activity">📰</a> <a href="/source/plugins/posts/README.md" title="✒️ Recent posts">✒️</a> <a href="/source/plugins/rss/README.md" title="🗼 Rss feed">🗼</a> <a href="/source/plugins/topics/README.md" title="📌 Starred topics">📌</a> <a href="/source/plugins/tweets/README.md" title="🐤 Latest tweets">🐤</a> <code>✓ embed()</code></td>
+    <th rowspan="3"><br><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=xeff09&theme=dark&show_icons=true"></th>
   </tr>
   <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code> <code>📓 Repositories</code></td>
-  </tr>
-  <tr>
-    <td><code>#️⃣ JSON</code> <code>🔠 Markdown</code> <code>🔠 Markdown (PDF)</code></td>
+    <td align="center"><img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=21naz3bxynvq33kljs6f3ytpy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.markdown.png" alt=""></img>
-      <img width="900" height="1" alt="">
+      <img align="center" width="95%" src="https://spotify-recently-played-readme.vercel.app/api?user=21naz3bxynvq33kljs6f3ytpy&count=1" alt=""></img>
     </td>
   </tr>
 </table>
