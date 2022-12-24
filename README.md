@@ -56,104 +56,19 @@
   <tr><th colspan="2"><img width="100%" src="https://media1.giphy.com/media/PFX8qCMjpF53bTjxLR/giphy.gif?cid=790b7611b6cb764415af623ed5d479a01edb08bc460ab7f3&rid=giphy.gif&ct=g"></th></tr>
 </table>
 
-## LAB 01
+## MORE (WIP)
 
 ___
 
-<details> <summary> 01 คอมพิวเตอร์ทำงาน </summary>
+<details> <summary> section 01 </summary>
 
-<br>
-
-คอมพิวเตอร์ทำงาน จงเขียนโปรแกรมเพื่อแสดงผลเวลาที่เครื่องคอมพิวเตอร์ทำงานในรูปของจำนวนวัน ชั่วโมง และนาที ตามลำดับ (ไม่ต้องคำนึง)
-เมื่อตัวแปร computer_time เก็บค่าจำนวนนาทีที่เครื่องคอมพิวเตอร์ทำงาน
-    
-<br>
-
-ตัวอย่างผลลัพธ์เมื่อ computer_time มีค่า 785 
-> It is 0 days 13 hours and 5 minutes.
-    
-อธิบาย: คอมพิวเตอร์ทำงาน 785 นาที เท่ากับ 0 วัน 13 ชั่วโมง 5 นาที
-
-<br>
-    
-ตัวอย่างผลลัพธ์เมื่อ computer_time มีค่า 1678
-> It is 1 days 3 hours and 58 minutes.
-    
-อธิบาย: คอมพิวเตอร์ทำงาน 1678 นาที เท่ากับ 1 วัน 3 ชั่วโมง 58 นาที
-
-<br>
-    
-`code section`
-```C
-#include<stdio.h>
-int main() {
-    int computer_time = 785;  // ในโปรแกรมตรวจอาจเปลี่ยนค่าของตัวแปรนี้ แต่นิสิตไม่ต้องเปลี่ยนค่าของตัวแปรนี้
-    
-    int h = (computer_time / 60) % 24;
-    int m = computer_time % 60;
-    int d = (computer_time / 60 / 24);
-    printf("It is %d days %d hours and %d minutes.", d, h, m);
-    return 0;
-
-    return 0;
-}
-```
-
-<br>
-
----
 </details>
     
-<details> <summary> 02 Sphere Volume </summary>
-
-<br>
-
-จงเขียนโปรแกรมเพื่อคำนวณค่าปริมาตร (volume) ของทรงกลม ในรูปแบบทศนิยม 2 ตำแหน่ง โดยค่ารัศมี (ตัวแปร radius) เป็นจำนวนจริง
-โดยใช้การคำนวณจากสูตร
-    
-<br>
-    
-$$ volume = {4 \over 3} \times {\Pi} \times {radius^3} $$
-    
-<br>
-
-กำหนดค่าคงที่ 
-    
-$$ {\Pi} = {22 \over 7} $$
-    
-<br>
-    
-ตัวอย่างผลลัพธ์ เมื่อตัวแปร radius มีค่า 1.5
-> The volume of this sphere is 14.14
-    
-<br>
-    
-`code section`
-```C
-#include <stdio.h>
-#include <stdlib.h>
-
-// กำหนดค่าคงที่ PI มีค่า 22.0/7
-#define PI 22.0/7
-
-int main()
-{
-    float radius = 1.5;
-    
-    float res = (4.0/3) * PI * (radius*radius*radius); 
-    printf("The volume of this sphere is %.2f", res);
-    return 0;
-
-    return 0;
-}
-```
-
-<br>
-
----
+<details> <summary> section 02 </summary>
+  
 </details>
 
-[< BACk](https://github.com/XEFF09/C-prog/tree/main/lab_md)
+[< BACk](https://github.com/XEFF09)
 
 
 
